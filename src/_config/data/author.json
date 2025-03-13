@@ -35,6 +35,10 @@
         {
           "language": "Full Stack Development",
           "icon": ""
+        },
+        {
+          "language": "Algorithms",
+          "icon": ""
         }
       ]
     },
@@ -97,6 +101,10 @@
         {
           "language": "Angular",
           "icon": ""
+        },
+        {
+          "language": "Eleventy",
+          "icon": ""
         }
       ]
     },
@@ -155,6 +163,47 @@
       "tools": [
         {
           "language": "Machine Learning",
+          "icon":""
+        },
+        {
+          "language": "Spark",
+          "icon":""
+        },
+        {
+          "language": "Kotlin",
+          "icon":""
+        }
+      ]
+    },
+    {
+      "type": "Domains of Interest",
+      "tools": [
+        {
+          "language": "Capital markets",
+          "icon":""
+        },
+        {
+          "language": "Indices",
+          "icon":""
+        },
+        {
+          "language": "Payments",
+          "icon":""
+        },
+        {
+          "language": "Banking",
+          "icon":""
+        },
+        {
+          "language": "Telecom",
+          "icon":""
+        },
+        {
+          "language": "Retail",
+          "icon":""
+        },
+        {
+          "language": "Travel",
           "icon":""
         }
       ]
