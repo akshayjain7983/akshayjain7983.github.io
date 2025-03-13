@@ -1,0 +1,14 @@
+[
+  {
+    "industry": "iBoxx Indices",
+    "details": "iBoxx bond indices offers broad benchmarking index solutions that track bond markets globally. iBoxx rules-based methodologies are publicly disclosed and designed to be replicable. Input data is sourced from various reliable and well-established partners/vendors like Bloomberg, Reuters, etc. via REST and/or FTP channels. Output data is distributed via REST and/or FTP channels in various csv/excel formats as per client requirements.",
+    "achievements": [
+      "System re-architecture from monolith to microservices using domain driven design",
+      "Migration from on-premises infrastructure to AWS cloud-based infrastructure.", 
+      "Launch of new loan indices products",
+      "Launch of new intraday bond indices products"
+    ],
+    "status": "live",
+    "technologies": ["Java", "SQL", "Spring",  "Microservices", "AWS", "Hazelcast", "GraphQL", "Angular"]
+  }
+]
