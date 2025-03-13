@@ -1,0 +1,24 @@
+{
+  "name": "Profile-Akshay",
+  "description": "Akshay's professional journey",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf _site",
+    "build": "npx @tailwindcss/cli -i static/css/tailwind.css -o _site/static/css/styles.css && npx @11ty/eleventy",
+    "serve": "npx @tailwindcss/cli -i static/css/tailwind.css -o _site/static/css/styles.css && npx @11ty/eleventy --serve",
+    "start": "npm run clean && npm run serve",
+    "publish": "npm run clean && npm run build"
+  },
+  "author": "Akshay Jain",
+  "license": "Apache-2.0",
+  "type": "module",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.1",
+    "@tailwindcss/cli": "^4.0.13",
+    "@tailwindcss/postcss": "^4.0.13",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.13"
+  }
+}
